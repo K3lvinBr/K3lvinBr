@@ -5,8 +5,8 @@
 - 📫 Como chegar até mim **kelvinsalesmachado@gmail.com**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K3lvinBr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3lvinBr&layout=compact&langs_count=7&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=K3lvinBr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3lvinBr&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
   <img align="center" alt="mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />       
 </div>
 
-  ##
+##
  
 <div>
   <a href="https://www.linkedin.com/in/kelvin-sales-54306321a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
