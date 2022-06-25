@@ -1,7 +1,7 @@
 ### Oi 👋, Eu sou o Kelvin
 
 - 🔭 Não trabalho atualmente
-- 🌱 Estou aprendendo **Python**
+- 🌱 Estou aprendendo **TypeScript**
 - 📫 Como chegar até mim **kelvinsalesmachado@gmail.com**
 
 <div align="center">
