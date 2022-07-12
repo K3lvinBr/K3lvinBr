@@ -1,7 +1,7 @@
 ### Oi 👋, Eu sou o Kelvin
 
 - 🔭 Não trabalho atualmente
-- 🌱 Estou aprendendo **TypeScript e Next.js**
+- 🌱 Estou aprendendo **React Native, TypeScript e Next.js**
 - 📫 Como chegar até mim **kelvinsalesmachado@gmail.com**
 
 <div align="center">
