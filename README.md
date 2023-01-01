@@ -1,7 +1,7 @@
 ### Oi 👋, Eu sou o Kelvin
 
 - 🔭 Não trabalho atualmente
-- 🌱 Estou aprendendo **Kotlin**
+- 🌱 Estou aprendendo **Dart | Flutter**
 - 📫 Como chegar até mim **kelvinsalesmachado@gmail.com**
 
 <div align="center">
