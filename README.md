@@ -1,6 +1,5 @@
 ### Oi 👋, Eu sou o Kelvin
 
-- 🔭 Não trabalho atualmente
 - 🌱 Estou aprendendo **Kotlin**
 - 📫 Como chegar até mim **kelvinsalesmachado@gmail.com**
 
